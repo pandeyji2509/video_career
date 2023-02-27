@@ -4,7 +4,7 @@ import VideoComponent from './VideoComponent';
 function video() {
   return (
     datas.map((data) =>
-      <VideoComponent data={data} />
+      <VideoComponent data={data}  />
     )
   )
 }

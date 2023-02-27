@@ -5,9 +5,11 @@
 }
 .overlay{
     position: absolute;
-    color: aliceblue; 
+    background-image: linear-gradient(black,grey); 
     left:15%;
     top: 2%;
+    color:white;
+
 }
 .outer-container {
     width: 100%;

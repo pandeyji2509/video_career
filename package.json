@@ -6,11 +6,20 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^4.6.2",
     "react": "^18.2.0",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
+    "react-media-recorder": "^1.6.6",
+    "react-record-webcam": "^0.0.18",
+    "react-router-dom": "^6.8.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "react-video-recorder": "^3.19.4",
+    "react-webcam": "^7.0.1",
+    "styled-components": "^5.3.6",
+    "web-vitals": "^2.1.4",
+    "webcam-easy": "^1.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
